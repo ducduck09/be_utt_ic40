@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 120" role="img" aria-labelledby="uttLogoTitle uttLogoDesc">
+  <title id="uttLogoTitle">Trường Đại học Công nghệ Giao thông Vận tải</title>
+  <desc id="uttLogoDesc">University of Transport Technology brand mark</desc>
+  <defs>
+    <linearGradient id="uttGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f79421" />
+      <stop offset="100%" stop-color="#d67a15" />
+    </linearGradient>
+  </defs>
+  <g fill="url(#uttGradient)">
+    <path d="M38 22c-17 0-32 11-50 33h18c10-11 20-17 32-17s22 6 32 17h18C70 33 55 22 38 22Z" />
+    <rect x="14" y="58" width="24" height="42" rx="6" />
+    <rect x="64" y="58" width="24" height="42" rx="6" />
+    <rect x="38" y="58" width="26" height="16" rx="4" />
+    <rect x="38" y="82" width="26" height="16" rx="4" />
+  </g>
+  <g fill="#f79421" font-family="'Poppins', 'Roboto', 'Arial', sans-serif" font-weight="600">
+    <text font-size="26" x="150" y="42">TRƯỜNG ĐẠI HỌC</text>
+    <text font-size="36" x="150" y="82">CÔNG NGHỆ GIAO THÔNG VẬN TẢI</text>
+  </g>
+  <text fill="#f79421" font-family="'Roboto', 'Arial', sans-serif" font-size="20" letter-spacing="0.2em" x="150" y="110">
+    UNIVERSITY OF TRANSPORT TECHNOLOGY
+  </text>
+</svg>
